@@ -13,4 +13,4 @@
 ### 6. Genetic Algorithms (TPOT Classifier)
 
 
-# LINK TO THE YOUTUBE CHANNEL FOR VIDEO EXPLANATION OF THESE TECHNIQUES:- [KRISH NAIK](https://www.youtube.com/playlist?list=PLZoTAELRMXVPUyxuK8AphGMuIJHTyuWna)
+#### LINK TO THE YOUTUBE CHANNEL FOR VIDEO EXPLANATION OF THESE TECHNIQUES:- [KRISH NAIK SIR](https://www.youtube.com/playlist?list=PLZoTAELRMXVPUyxuK8AphGMuIJHTyuWna)
