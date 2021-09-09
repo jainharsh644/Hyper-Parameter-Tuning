@@ -11,3 +11,6 @@
 ### 4. Sequential Model Based Optimization(Tuning a scikit-learn estimator with skopt)
 ### 5. Optuna- Automate Hyperparameter Tuning
 ### 6. Genetic Algorithms (TPOT Classifier)
+
+
+# LINK TO THE YOUTUBE CHANNEL FOR VIDEO EXPLANATION OF THESE TECHNIQUES:- [KRISH NAIK](https://www.youtube.com/playlist?list=PLZoTAELRMXVPUyxuK8AphGMuIJHTyuWna)
