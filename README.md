@@ -4,7 +4,7 @@
 [![Python 3.6](https://img.shields.io/badge/python-3.6-blue.svg)](https://www.python.org/downloads/release/python-360/) 
 
 ## In this, I have explained about hyperparameter tuning techniques in machine learning. The techniques are:
-___
+
 ### 1. GridSearchCV
 ### 2. RandomizedSearchCV
 ### 3. Bayesian Optimization -Automate Hyperparameter Tuning (Hyperopt)
