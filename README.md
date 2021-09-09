@@ -5,9 +5,9 @@
 
 In this, I have explained about hyperparameter tuning techniques in machine learning. The techniques are:
 
-# 1. GridSearchCV
-RandomizedSearchCV
-Bayesian Optimization -Automate Hyperparameter Tuning (Hyperopt)
-Sequential Model Based Optimization(Tuning a scikit-learn estimator with skopt)
-Optuna- Automate Hyperparameter Tuning
-Genetic Algorithms (TPOT Classifier)
+## 1. GridSearchCV
+## 2. RandomizedSearchCV
+## 3. Bayesian Optimization -Automate Hyperparameter Tuning (Hyperopt)
+## 4. Sequential Model Based Optimization(Tuning a scikit-learn estimator with skopt)
+## 5. Optuna- Automate Hyperparameter Tuning
+## 6. Genetic Algorithms (TPOT Classifier)
